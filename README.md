@@ -26,14 +26,6 @@ I’m a passionate Web Developer and Coder, currently diving into the fascinatin
 ## 📊 LeetCode Profile  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/priyanshu0918?theme=dark&font=Montserrat)](https://leetcode.com/priyanshu0918/)
 
-## ⚡ Codeforces Profile  
-![Codeforces Stats](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/codeforces-stats.svg?username=priyanshu3003)
-
-## 🎖️ Badges  
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solver-orange?logo=leetcode)  
-![Codeforces Badge](https://img.shields.io/badge/Codeforces-Rated-blue?logo=codeforces)
-
-
 
 ### **🚀 Hackathons:**
 
