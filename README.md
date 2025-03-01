@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there I' m Priyanshu 👋
+[check out my youtube channel :)](https://youtube.com/@priyanshuthakur8947?si=Ubv2fM9JcWYDr8Xw)
 
-<!--
-**priyanshu1804/priyanshu1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-Here are some ideas to get you started:
+I’m a passionate Web Developer and Coder, currently diving into the fascinating realms of AI/ML and Blockchain to craft innovative solutions for the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📊 GitHub Stats
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu1804&show_icons=true&theme=tokyonight&count_private=true)
+
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1804&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu1804&theme=tokyonight)
+
+## 🌱 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu1804&theme=tokyonight)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu1804&color=blue)
+
+# 🚀 My Competitive Programming Stats  
+
+## 📊 LeetCode Profile  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/priyanshu0918?theme=dark&font=Montserrat)](https://leetcode.com/priyanshu0918/)
+
+## ⚡ Codeforces Profile  
+![Codeforces Stats](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/codeforces-stats.svg?username=priyanshu3003)
+
+## 🎖️ Badges  
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solver-orange?logo=leetcode)  
+![Codeforces Badge](https://img.shields.io/badge/Codeforces-Rated-blue?logo=codeforces)
+
+
+
+### **🚀 Hackathons:**
+
+#### **Smart India Hackathon 2024 (ISRO):**
+- Among the top 5% selected for the grand finale.
+- Live video call with the Honorable Prime Minister.
+- Mentored by ISRO scientists and inspired by Dr. Abdul Kalam's teachings.
+- Developed an **Automatic Modulation Recognition software** for DVB-S2X waveforms.
+
+#### **Code Kshetra 2.0:**
+- top 150 teams to be selected as finalist
+- Developed an **Food Connect** platform to connect food donors to NGO's
